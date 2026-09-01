@@ -1,7 +1,7 @@
 <!DOCTYPE html><html><head>
   <title>Urban City Living</title>
 
-  <style>
+<style>
     body {
       width: 1024px;
       margin: auto;
@@ -68,14 +68,14 @@
       font-size: 14pt;
       line-height: 1.6em;
     }
-  </style>
+</style>
 </head>
 
 <body>
 
-  <h1><span class="big-letter">U</span>rban City Living</h1>
+<h1><span class="big-letter">U</span>rban City Living</h1>
 
-  <p class="credit">Made with Copilot for text and Myself with photos</p>
+<p class="credit">Made with Copilot for text and Myself with photos</p>
 
   <!-- Banner image -->
 <img src="IMG_3516.jpeg" alt="City skyline banner" id="banner">
@@ -83,11 +83,11 @@
   <!-- Inline photo -->
 <img src="IMG_3517.jpeg" alt="City skyline at night" class="city-photo">
 
-  <p><span class="big-letter",=>U</span>rban city living has a certain energy that you feel the moment you step outside. The streets are always moving, whether it’s people heading to work, buses rolling by, or the sound of traffic echoing between tall buildings. Living in the city means being surrounded by places to go and things to do. Coffee shops, restaurants, stores, and parks are all close enough that you can walk or take a quick ride to get there. Even simple routines like grabbing breakfast or running errands feel different because everything is happening around you at once. The city has a rhythm that becomes part of your daily life, and you start to notice how each neighborhood has its own personality and pace.</p>
+<p><span class="big-letter",=>U</span>rban city living has a certain energy that you feel the moment you step outside. The streets are always moving, whether it’s people heading to work, buses rolling by, or the sound of traffic echoing between tall buildings. Living in the city means being surrounded by places to go and things to do. Coffee shops, restaurants, stores, and parks are all close enough that you can walk or take a quick ride to get there. Even simple routines like grabbing breakfast or running errands feel different because everything is happening around you at once. The city has a rhythm that becomes part of your daily life, and you start to notice how each neighborhood has its own personality and pace.</p>
 
-  <p>At the same time, urban living also has quieter moments that make the experience feel balanced. There are evenings when the sun sets behind the buildings and the whole skyline lights up, creating a view that makes you stop and take it in. You might hear music from a nearby rooftop or see people walking their dogs after work. Late at night, the city feels different, almost peaceful, with fewer cars and a softer glow from the streetlights. Living in the city teaches you how to find calm in the middle of all the activity. It becomes a place where you can explore, meet new people, and feel connected to everything happening around you while still carving out your own space within it.</p>
+<p>At the same time, urban living also has quieter moments that make the experience feel balanced. There are evenings when the sun sets behind the buildings and the whole skyline lights up, creating a view that makes you stop and take it in. You might hear music from a nearby rooftop or see people walking their dogs after work. Late at night, the city feels different, almost peaceful, with fewer cars and a softer glow from the streetlights. Living in the city teaches you how to find calm in the middle of all the activity. It becomes a place where you can explore, meet new people, and feel connected to everything happening around you while still carving out your own space within it.</p>
 
-  <p>Living in the city also changes the way you see everyday life. You start to appreciate small details that you might overlook in quieter places. The way people gather at bus stops in the morning, the smell of food coming from street vendors, and the sound of conversations echoing from open storefronts all become part of your routine. There are moments when you notice how different groups of people share the same space, each with their own story and destination. You might pass someone heading to work, someone meeting friends, or someone simply enjoying a walk. The city becomes a place where you feel connected to a larger community, even if you do not know everyone personally. It teaches you how to navigate busy environments, stay aware of your surroundings, and find comfort in the constant movement that defines urban life.</p>
+<p>Living in the city also changes the way you see everyday life. You start to appreciate small details that you might overlook in quieter places. The way people gather at bus stops in the morning, the smell of food coming from street vendors, and the sound of conversations echoing from open storefronts all become part of your routine. There are moments when you notice how different groups of people share the same space, each with their own story and destination. You might pass someone heading to work, someone meeting friends, or someone simply enjoying a walk. The city becomes a place where you feel connected to a larger community, even if you do not know everyone personally. It teaches you how to navigate busy environments, stay aware of your surroundings, and find comfort in the constant movement that defines urban life.</p>
 
 
 </body></html>
